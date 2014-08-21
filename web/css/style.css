@@ -1,0 +1,36 @@
+h1 
+	{font-weight:bold; 
+
+	color: #006699;
+	
+	text-shadow: 2px 2px 3px #666666;}
+
+
+h2 
+	{color: black;}
+
+
+body 
+	{background-color: #006699;
+
+	 color: white; 
+
+	font-size: 14pt;
+
+	}
+
+#title{background-color: white ;text-align: center;}
+
+#step1{color: white; background-color: ;text-align: center;}
+
+#step2{color: white; background-color: ;text-align: center;}
+
+#step3{color: white; background-color: ;text-align: center;}
+
+#step4{color: white; background-color: ;text-align: center;}
+
+#step5{color: white; background-color: ;text-align: center;}
+
+#step1pic {display: block; 
+			width: 1138px
+			margin:0 auto;}
